@@ -1,20 +1,18 @@
 ### Hi there, I'm Brad!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BraadWaterhouse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BraadWaterhouse)
-
 ## Software Developer
 
 - 🌻 Currently working for Bunches Florapost.
 - 🌱 I’m currently learning Node JS.
 - 👯 I’m looking to collaborate with other developers outside of my day job.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🚀 Fun Fact: I love Crypto Currency.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[![linkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brad-waterhouse-772759140/)
 <br />
+[![twitter Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brad__waterhouse/)
 
 ### Languages and Tools:
 
