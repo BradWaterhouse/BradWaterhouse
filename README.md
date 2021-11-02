@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Node JS.
 - 👯 I’m looking to collaborate with other developers outside of my day job.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play guitar / drums.
 
 ### Connect with me:
 
