@@ -5,7 +5,7 @@
 - 🌻 Currently working for Bunches Florapost.
 - 🌱 I’m currently learning Next JS.
 - 👯 I’m looking to collaborate with other developers outside of my day job.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - 🚀 Fun Fact: I love Crypto Currency.
 
 ### Connect with me:
